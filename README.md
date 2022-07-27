@@ -1,3 +1,3 @@
 # Bas-Fut
 
-A project of mine that i made a remastered version of my middle school project website bas-fut.tr.gg
+I am working on a web project, it is a remake version of my middle school project "bas-fut.tr.gg"
